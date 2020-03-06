@@ -1,0 +1,12 @@
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\bin\Release\VB_Sortfile_2_Datumordner.exe.config
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\bin\Release\VB_Sortfile_2_Datumordner.exe
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\bin\Release\VB_Sortfile_2_Datumordner.pdb
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\bin\Release\VB_Sortfile_2_Datumordner.xml
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\obj\Release\VB_Sortfile_2_Datumordner.Dateisortierer.resources
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\obj\Release\VB_Sortfile_2_Datumordner.Resources.resources
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\obj\Release\VB_Sortfile_2_Datumordner.vbproj.GenerateResource.cache
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\obj\Release\VB_Sortfile_2_Datumordner.vbproj.CoreCompileInputs.cache
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\obj\Release\VB_Sortfile_2_Datumordner.exe
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\obj\Release\VB_Sortfile_2_Datumordner.xml
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\obj\Release\VB_Sortfile_2_Datumordner.pdb
+C:\Users\adaml\source\repos\VB_Sortfile_2_Datumordner\VB_Sortfile_2_Datumordner\obj\Release\VB_Sortfile_2_Datumordner.vbprojAssemblyReference.cache
