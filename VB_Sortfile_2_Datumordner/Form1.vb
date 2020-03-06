@@ -14,8 +14,8 @@ Public Class Dateisortierer
         Dim fileCreatedDate As DateTime 'Erstellungsdatum auf dem Medium
         Dim fileChangedDate As DateTime 'Letztes Änderungsdatum
 
-        Dim firstPathString As String 'Pfad, in dem sich die Anwendung und damit die zu sortierenden Dateien befinden.
-        Dim secPathString As String
+        Dim firstPathString As String   'Pfad, in dem sich die Anwendung und damit die zu sortierenden Dateien befinden.
+        Dim secPathString As String     'Ordnername mit Erstellungsdatum des Bildes
         Dim errPathString As String
 
         Dim zielPfadString As String
